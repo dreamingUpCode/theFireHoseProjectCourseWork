@@ -150,6 +150,9 @@ h1 {
 	 -webkit-animation-duration: 1.2s;
 	 -moz-animation-duration: 1.2s;
 	 -o-animation-duration: 1.2s;
+	 -webkit-animation-delay: 1s;
+	-moz-animation-delay: 1s;
+	-o-animation-delay: 1s;
 	 
 }
 
